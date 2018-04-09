@@ -1,5 +1,5 @@
 {
-    "name": "hansim/laravel-scout-elastic",
+    "name": "hansim/scout-elasticsearch",
     "description": "Elastic Driver for Laravel Scout",
     "keywords": ["laravel", "scout", "elasticsearch", "elastic"],
     "require": {
